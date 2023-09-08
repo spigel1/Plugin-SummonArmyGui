@@ -1,0 +1,6 @@
+name: Army
+version: '${project.version}'
+main: me.eranspigel.army.Army
+api-version: '1.20'
+commands:
+  summonarmy:
