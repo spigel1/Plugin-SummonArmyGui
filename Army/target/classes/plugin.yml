@@ -1,0 +1,6 @@
+name: Army
+version: '1.0-SNAPSHOT'
+main: me.eranspigel.army.Army
+api-version: '1.20'
+commands:
+  summonarmy:

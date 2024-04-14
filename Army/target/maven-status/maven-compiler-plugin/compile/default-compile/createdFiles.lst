@@ -1,0 +1,7 @@
+me\eranspigel\army\armies\Effect.class
+me\eranspigel\army\commands\ArmyCommand.class
+me\eranspigel\army\utils\ItemUtils.class
+me\eranspigel\army\Army.class
+me\eranspigel\army\listeners\MenuHandler$1.class
+me\eranspigel\army\listeners\MenuHandler.class
+me\eranspigel\army\armies\CreateArmy.class
